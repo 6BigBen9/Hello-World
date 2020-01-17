@@ -1,2 +1,3 @@
-# Hello-World
-Hello World
+function start(){
+  println("Hello World");
+}
